@@ -269,6 +269,11 @@ p{
     border-color: #FDCA40;
 }
 
+#contact-info h3 {
+    padding: 0;
+    margin-bottom: 10px;
+} 
+
 /* footer */
 #main-footer{
     text-align: center;
